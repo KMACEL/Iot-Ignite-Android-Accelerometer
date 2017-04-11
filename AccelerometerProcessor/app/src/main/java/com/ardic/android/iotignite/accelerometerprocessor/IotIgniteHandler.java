@@ -273,7 +273,7 @@ public class IotIgniteHandler implements ConnectionCallback,NodeListener,ThingLi
 
     private long speedX;                    // accelerometerSensX delay time
     private long speedY;                    // accelerometerSensY delay time
-    private long speedZ;                    // accelerometerSensz delay TİME
+    private long speedZ;                    // accelerometerSensz delay time
 
     private ThingData dataX;                // accelerometerSensX Send Area
     private ThingData dataY;                // accelerometerSensY Send Area
